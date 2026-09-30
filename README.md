@@ -23,3 +23,15 @@ Pandas – Data loading and preprocessing
 Scikit-learn – TF-IDF and Cosine Similarity
 Difflib – Finding the closest matching movie title
 Streamlit – Building the interactive web interface
+
+
+Project Structure
+Movie-Recommendation-System/
+│
+├── Project1_Movie.ipynb    # Complete ML implementation
+├── recommender.py          # Recommendation engine
+├── app.py                  # Streamlit application
+├── tmdb.py                 # Movie poster/rating API
+├── requirements.txt        # Required Python libraries
+├── .gitignore              # Files excluded from Git
+└── README.md               # Project documentation
